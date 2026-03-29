@@ -46,59 +46,59 @@
        id="path6" />
   </g>
   <text
-     x="20.214106"
-     y="44.777912"
+     x="19.332033"
+     y="44.715946"
      font-family="Georgia, serif"
-     font-size="27.1531px"
+     font-size="28.9865px"
      font-style="italic"
      fill="#212529"
      id="text8"
-     style="stroke-width:0.79862">o</text>
+     style="stroke-width:0.852545">o</text>
   <!-- F Shape (Rounded corners, identical Reds) -->
   <rect
-     x="9.0334311"
-     y="17.244537"
-     width="22.361349"
-     height="7.986196"
-     rx="3.1944783"
+     x="7.3964028"
+     y="15.323427"
+     width="23.87126"
+     height="8.5254488"
+     rx="3.4101796"
      fill="#cb333b"
      id="rect6"
-     style="stroke-width:0.79862" />
+     style="stroke-width:0.852545" />
   <rect
-     x="9.0334311"
-     y="30.022449"
-     width="14.375153"
-     height="7.986196"
-     rx="3.1944783"
+     x="7.3964028"
+     y="28.964146"
+     width="15.345809"
+     height="8.5254488"
+     rx="3.4101796"
      fill="#cb333b"
      id="rect7"
-     style="stroke-width:0.79862" />
+     style="stroke-width:0.852545" />
   <rect
-     x="9.0334311"
-     y="17.244537"
-     width="7.986196"
-     height="28.750305"
-     rx="3.1944783"
+     x="7.3964028"
+     y="15.323427"
+     width="8.5254488"
+     height="30.691618"
+     rx="3.4101796"
      fill="#418fde"
      id="rect8"
-     style="stroke-width:0.79862" />
+     style="stroke-width:0.852545" />
   <!-- o, n, t (different fonts) -->
   <text
-     x="33.230343"
-     y="44.777912"
+     x="33.227169"
+     y="44.715946"
      font-family="'Courier New', monospace"
-     font-size="30.3476px"
+     font-size="32.3968px"
      font-weight="bold"
      fill="#374151"
      id="text9"
-     style="stroke-width:0.79862">n</text>
+     style="stroke-width:0.852545">n</text>
   <text
-     x="45.231033"
-     y="44.840168"
+     x="46.038185"
+     y="44.782402"
      font-family="Impact, Arial, sans-serif"
-     font-size="30.3476px"
+     font-size="32.3968px"
      font-weight="900"
      fill="#cb333b"
      id="text10"
-     style="stroke-width:0.79862">t</text>
+     style="stroke-width:0.852545">t</text>
 </svg>
