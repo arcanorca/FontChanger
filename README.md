@@ -9,9 +9,6 @@ Works on **all platforms** (Linux, Windows, macOS) and **all packaging formats**
 
 ## Installation
 
-### Via Addon Manager
-1. **Tools → Addon Manager** → search "FontBook" → Install → Restart
-
 ### Manual
 ```bash
 # Linux
@@ -57,11 +54,6 @@ FontBook instead overrides text colors on a limited set of widgets:
 - Data-heavy text inputs and views (like `QTextEdit`, `QTableView`) are excluded.
 
 
-
 ## License
 [LGPL-2.1-or-later](LICENSE)
 
-## Recent Updates
-- **Improved Color Consistency**: Added robust support for styling checkboxes, radio buttons, and Task View lists globally across the FreeCAD interface.
-- **Color Picker Fixes**: Streamlined the `QColorDialog` integration, completely replacing geometry-based custom-color removal with precise Qt-Layout parsing, fixing display bugs.
-- **Brand Identity**: Updated `fontbook.svg` with a polished, rounded geometry look featuring diverse typography styles!
